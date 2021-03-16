@@ -13,7 +13,7 @@
 	<p>{{ say }}</p>
 </div>
 <script type = "text/javascript">
- var now = 	new Date();
+ var now  = new Date();
  var hour = now.getHours();
  var Client = new Vue({
     el: '#app',
